@@ -7,7 +7,9 @@
 
 
 - 🌱 I’m currently learning **Competitive Coding**
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1srrgmI5zqIkPWxyTHYFCpM1KHKSLO1Kj/view?usp=sharing](https://drive.google.com/file/d/1srrgmI5zqIkPWxyTHYFCpM1KHKSLO1Kj/view?usp=sharing)
+
 - 📫 How to reach me **dk725013@gmail.com**
 
 </p>
@@ -17,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/dileep-kumar-yadav-765ab91a1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamprinceraj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dileep-kumar-yadav-765ab91a1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamprinceraj" height="30" width="40" /></a>
 <a href="https://fb.com/princenitian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="princenitian" height="30" width="40" /></a>
 <a href="https://instagram.com/im_princeraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="im_princeraj" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/im_princeraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="im_princeraj" height="30" width="40" /></a>
