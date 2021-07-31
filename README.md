@@ -19,14 +19,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dileep-kumar-yadav-765ab91a1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamprinceraj" height="30" width="40" /></a>
-<a href="https://fb.com/princenitian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="princenitian" height="30" width="40" /></a>
-<a href="https://instagram.com/im_princeraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="im_princeraj" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/im_princeraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="im_princeraj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iamprinceraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="princeraj427" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/im_princeraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="im_princeraj" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@im_princeraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="im_princeraj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dileep-kumar-yadav-765ab91a1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100039354048945" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"  height="30" width="40" /></a>
+<a href="https://www.instagram.com/dileepkumar401/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dk725013" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg"  height="30" width="40" /></a>
+
 </p>
+
+
 
 
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"  align="right" width="30%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
